@@ -1,7 +1,6 @@
 import unittest
 from f4 import *
 class test(unittest.TestCase):
-    #测试功能1、功能2
 
     def test_f4(self):
         pass
